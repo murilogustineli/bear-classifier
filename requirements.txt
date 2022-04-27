@@ -1,5 +1,3 @@
+fastai
 voila
-fastai>=2
-pillow<7
-packaging
-ipywidgets==7.5.1
+ipywidgets
