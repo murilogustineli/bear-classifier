@@ -4,5 +4,3 @@
 Demo bear classifier with fastai and [Voila](https://pypi.org/project/voila/)
 
 The image classifier can grizzly, black, or teddy bears in an image.
-
-[App link](https://notebooks.gesis.org/binder/jupyter/user/murilogustineli-bear-classifier-ohnvlhzw/voila/render/bear_classifier.ipynb?token=N6PdsQGtSqKvIMMQ4x4lYQ)
