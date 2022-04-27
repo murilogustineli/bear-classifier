@@ -1,4 +1,5 @@
-jupyterlab
-fastai==2.5.0
 voila
-ipywidgets
+fastai>=2
+pillow<7
+packaging
+ipywidgets==7.5.1
