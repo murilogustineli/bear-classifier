@@ -4,3 +4,5 @@
 Demo bear classifier with fastai and [Voila](https://pypi.org/project/voila/)
 
 The image classifier can identify grizzly, black, or teddy bears in an image.
+
+Click on the __*"launch binder"*__ button above to run the app.
