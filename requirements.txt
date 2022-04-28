@@ -1,5 +1,4 @@
-voila
+jupyterlab
 fastai==2.5.0
-pillow<7
-packaging
-ipywidgets==7.5.1
+voila
+ipywidgets
